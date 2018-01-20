@@ -1,2 +1,2 @@
-# jsrfpastabot
-A JSRF Pasta Bot based on cavariux/twitchirc
+# JSRFPastaBot
+A JSRF Pasta Bot based on cavariux/twitchirc.
